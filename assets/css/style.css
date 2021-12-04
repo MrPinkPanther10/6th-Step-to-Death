@@ -1,0 +1,12 @@
+html {
+    position: relative;
+    min-height: 100%
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+nav {
+    background-color: #f2a3b3;
+}
