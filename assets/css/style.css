@@ -10,3 +10,16 @@ body {
 nav {
     background-color: #f2a3b3;
 }
+
+.sticky-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
