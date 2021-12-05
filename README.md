@@ -8,4 +8,4 @@ The Weather Dashboard is to see the weather outlook for multiple cities and curr
 This is the live URL: https://mrpinkpanther10.github.io/6th-Step-to-Death/
 
 Screenshot of the website
-![WorkDay](https://user-images.githubusercontent.com/90013822/144764436-a516ce1d-3fed-4362-b7ce-d83f233c6305.JPG)
+![Weather Dashboard](https://user-images.githubusercontent.com/90013822/144764452-f546ad38-4ad9-4543-8b62-a9725f66caa7.JPG)
